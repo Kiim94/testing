@@ -1,2 +1,2 @@
 # testing
-just a repository for testing stuff out
+just a repository for testing stuff out, mainly **Git**
